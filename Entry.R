@@ -113,4 +113,38 @@ log <- append_food(
 )
 
 # July 3rd, 2025
-
+log <- append_food(
+  '2025-07-03', 
+  'Steamed Rice', 
+  259, 404, 6, 1, 96
+)
+log <- append_food(
+  '2025-07-03', 
+  'Salad Chicken', 
+  220, 208, 45, 3, 3
+)
+log <- append_food(
+  '2025-07-03', 
+  'Avocado', 
+  104, 183, 2, 18, 8
+)
+log <- append_food(
+  '2025-07-03', 
+  'Soy Sauce', 
+  10, 10, 1, 0, 2
+)
+log <- append_food(
+  '2025-07-03', 
+  'Lean Chicken Breast', 
+  500, 490, 120, 4, 1
+)
+log <- append_food(
+  '2025-07-03', 
+  'Steamed Rice', 
+  239, 373, 6, 1, 89
+)
+log <- append_food(
+  '2025-07-03', 
+  'Banana', 
+  85, 79, 1, 0, 19
+)
