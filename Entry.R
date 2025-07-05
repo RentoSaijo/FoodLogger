@@ -148,3 +148,52 @@ log <- append_food(
   'Banana', 
   85, 79, 1, 0, 19
 )
+
+# July 4th, 2025
+log <- append_food(
+  '2025-07-04', 
+  'Steamed Rice', 
+  189, 295, 5, 1, 70
+)
+log <- append_food(
+  '2025-07-04', 
+  'Yogurt', 
+  226, 174, 20, 0, 22
+)
+log <- append_food(
+  '2025-07-04', 
+  'Natto', 
+  50, 83, 7, 4, 6
+)
+log <- append_food(
+  '2025-07-04', 
+  'Tokoroten', 
+  110, 18, 0, 0, 4
+)
+log <- append_food(
+  '2025-07-04', 
+  'Steamed Rice', 
+  189, 295, 5, 1, 70
+)
+log <- append_food(
+  '2025-07-04', 
+  'Salad Chicken', 
+  200, 216, 43, 5, 2
+)
+log <- append_food(
+  '2025-07-04', 
+  'Chicken Thighs', 
+  480, 912, 80, 68, 0
+)
+log <- append_food(
+  '2025-07-04', 
+  'Seared Bonito', 
+  200, 210, 46, 1, 4
+)
+log <- append_food(
+  '2025-07-04', 
+  'Steamed Rice', 
+  272, 424, 7, 1, 101
+)
+
+# July 5th, 2025
